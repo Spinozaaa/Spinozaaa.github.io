@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>📧 [zengyaopei@gmail.com](https://mail.google.com/)</p>
-    <p>🖥︎ [Github](https://github.com/Spinozaaa)</p>
+    <p>📧 [zengyaopei@gmail.com </p>
+    <p>🖥︎ https://github.com/Spinozaaa </p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
